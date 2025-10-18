@@ -71,12 +71,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AutoFtBot69/Wildcard-BOT.git"
+        "url": "git+https://github.com/kopralwann/Wildcard-BOT.git"
     },
     "bugs": {
-        "url": "https://github.com/AutoFtBot69/Wildcard-BOT/issues"
+        "url": "https://github.com/kopralwann/Wildcard-BOT/issues"
     },
-    "homepage": "https://github.com/AutoFtBot69/Wildcard-BOT#readme",
+    "homepage": "https://github.com/kopralwann/Wildcard-BOT#readme",
     "files": [
         "bin/",
         "lib/",
